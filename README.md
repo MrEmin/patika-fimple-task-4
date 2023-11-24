@@ -27,4 +27,4 @@ To run this Vite project locally, follow these steps:
 
 ## Screenshots:
 
-![Todo-App Screenshot]()
+![Todo-App Screenshot](https://github.com/MrEmin/patika-fimple-task-4/blob/main/src/assets/todo-app.png?raw=true)
